@@ -1,0 +1,5 @@
+.ropeproject
+.venv
+.env
+__pycache__
+playlists.yaml
