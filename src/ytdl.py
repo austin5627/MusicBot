@@ -2,7 +2,7 @@ import asyncio
 import functools
 
 import discord
-import youtube_dl
+import yt_dlp as youtube_dl
 from discord.ext import commands
 
 # Silence useless bug reports messages
